@@ -1,0 +1,23 @@
+h1{
+    background-color: black;
+    font-weight: bold;
+    text-decoration: none;
+    color: limegreen;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border: 20px;
+}
+h3{
+    background-color: black;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(50, 112, 205);
+    text-align: center;
+}
+ol li{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.562);
+    text-align:left;
+}
